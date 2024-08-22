@@ -1,0 +1,12 @@
+.inventory-form {
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    padding:10px;
+  }
+  
+  .inventory-form input,
+  .inventory-form button {
+    margin: 10px 0;
+    padding: 10px;
+  }
